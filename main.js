@@ -502,7 +502,7 @@ class LiverViewer {
 
       // 9.2 모델 로드
       loader.load(
-          'https://github.com/imsso-bmed/LiverAIz_3D_webviewer/models/LDLT_D_fusion.glb',
+          'https://imsso-bmed.github.io/LiverAIz_3D_webviewer/models/LDLT_D_fusion.glb',
           (gltf) => {
               const model = gltf.scene;
 
