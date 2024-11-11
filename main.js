@@ -1,5 +1,5 @@
 // 1. 필요한 Three.js 모듈 임포트
-import * as THREE from '../node_modules/three/build/three.module.js';
+import * as THREE from '/node_modules/three/build/three.module.js';
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls';
 import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader';
 import { CSS2DRenderer, CSS2DObject } from 'three/examples/jsm/renderers/CSS2DRenderer.js';
